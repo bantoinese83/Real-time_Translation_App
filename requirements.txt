@@ -7,3 +7,4 @@ webrtcvad~=2.0.10
 pyaudio~=0.2.14
 soundfile~=0.12.1
 numpy~=1.26.4
+python-dotenv~=1.0.1
